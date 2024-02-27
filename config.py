@@ -8,3 +8,8 @@ MODEL_NAME = "gpt-4"
 TEMPERATURE = 1
 CHUNK_SIZE = 3000
 CHUNK_OVERLAP = 200
+
+# Email configuration
+RECIPIENT_EMAIL = "davis.andherson@gmail.com" 
+SENDER_EMAIL = os.getenv("SENDER_EMAIL") 
+SENDER_PASSWORD = os.getenv("SENDER_PASSWORD") 
