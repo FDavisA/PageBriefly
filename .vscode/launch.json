@@ -12,7 +12,9 @@
       "console": "integratedTerminal",
       "justMyCode": true,
       "env": {
-        "OPENAI_API_KEY": "PLACEHOLDERKEY",
+        "OPENAI_API_KEY": "***",
+        "SENDER_EMAIL":"***@gmail.com",
+        "SENDER_PASSWORD":"***",
       }
     }
   ]
